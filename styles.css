@@ -1,0 +1,62 @@
+#main-doc{
+  margin: auto;
+  width: 600px;
+}
+.introduction{
+  font-size: 32px;
+}
+.What_you_should_already_know{
+  font-size: 32px;
+}
+
+.JavaScript_and_Java{
+  font-size: 32px;
+}
+
+.Hello_world{
+ font-size: 32px; 
+}
+.Variables{
+ font-size: 32px; 
+}
+.Declaring_variables{
+ font-size: 32px; 
+}
+
+.Variable_scope{
+ font-size: 32px; 
+}
+.Global_variables{
+ font-size: 32px; 
+}
+.Constants{
+ font-size: 32px; 
+}
+.Data_types{
+ font-size: 32px; 
+}
+.if_else_statement{
+ font-size: 32px; 
+}
+.while_statement{
+ font-size: 32px; 
+}
+.function_declarations{
+ font-size: 32px; 
+}
+.reference{
+ font-size: 32px; 
+}
+.sidenav{
+  
+  width: 160px;
+  left: 0;
+z-index: 1;
+overflow-x: 0; /* Disable horizontal scroll */
+}
+
+@media(min-width: 400px){
+  #main-doc{
+    font-size: 12px;
+  }
+}
